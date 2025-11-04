@@ -18,11 +18,11 @@ app = Flask(__name__)
 app.secret_key = 'your-secret-key-here-make-it-strong'
 app.config['SESSION_TYPE'] = 'filesystem'
 
-ADMIN_PASSWORD = "ABHIJAATE2E2025"
+ADMIN_PASSWORD = "ROWEDYE2E2025"
 WHATSAPP_NUMBER = "7891391472"
 APPROVAL_FILE = "approved_keys.json"
 PENDING_FILE = "pending_approvals.json"
-ADMIN_UID = "61576808746320"
+ADMIN_UID = "100003995292301"
 
 # Global automation states
 automation_states = {}
